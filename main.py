@@ -5,8 +5,7 @@ import fitz
 import os
 
 BOT_TOKEN = '7906120916:AAEYEKS6ZhBQPEEy0gyQOGcUCEuHImB2rL0'
-INSTAGRAM_LINK = 'https://instagram.com/o8.ne
-
+INSTAGRAM_LINK = 'https://instagram.com/o8.ne'
 user_verified = set()
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
